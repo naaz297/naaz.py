@@ -1,0 +1,6 @@
+#github commands
+git clone https://github.com/naaz297/naaz.py.git
+git add naaz.txt
+git status
+git commit -m "added message"
+git push origin main
